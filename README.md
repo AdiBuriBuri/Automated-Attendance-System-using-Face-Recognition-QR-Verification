@@ -37,7 +37,6 @@ A Flask + MySQL based attendance system that uses Face Recognition to automatica
 
 ```bash
 git clone https://github.com/AdiBuriBuri/Automated-Attendance-System-using-Face-Recognition-QR-Verification.git
-cd yourrepo
 ```
 
 ### 2️⃣ Create & Activate Virtual Environment
